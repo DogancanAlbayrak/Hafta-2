@@ -47,7 +47,6 @@ main {
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
-    align-items: center;
 }
 
 article {
@@ -75,7 +74,6 @@ article h2 {
 article a {
     text-decoration: none;
     color: #007BFF;
-    align-items: center;
 }
 
 article a:hover {
